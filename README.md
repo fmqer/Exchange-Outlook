@@ -1,2 +1,2 @@
-# Exchange-Outlook
-Exchange 和 Outlook脚本
+# Windwos-Exchange-Outlook
+Windows 、Exchange 、 Outlook一些脚本
